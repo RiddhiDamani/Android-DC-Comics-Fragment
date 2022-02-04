@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/fragment1"
+        android:title="@string/batman" />
+    <item
+        android:id="@+id/fragment2"
+        android:title="@string/wonder_woman" />
+    <item
+        android:id="@+id/fragment3"
+        android:title="@string/iron_man" />
+
+    <item
+        android:id="@+id/fragment4"
+        android:title="@string/black_panther" />
+
+    <item
+        android:id="@+id/fragment5"
+        android:title="@string/capt_marvel" />
+</menu>
